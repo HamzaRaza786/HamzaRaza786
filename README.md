@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HamzaRaza786
 - 👀 I’m interested in Software Engineering and Blockchain Engineering.
 - 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on Ethereum Development.
+- 💞️ I’m looking to collaborate on Distributed Systems.
 
 <!---
 HamzaRaza786/HamzaRaza786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
