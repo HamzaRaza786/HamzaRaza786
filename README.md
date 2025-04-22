@@ -17,10 +17,9 @@ I'm a passionate **Software Engineer** with a knack for building clean, scalable
 
 ## 💡 Currently Exploring
 
-- Blockchain-based infrastructure and smart contract development  
 - Optimizing CI/CD pipelines for full-stack applications  
 - Better ways to make frontend code more maintainable and testable  
-- Contributing to **climate tech**, **AI-powered tools**, and **open-source projects** that matter
+- Contributing to **CRM**, **AI-powered tools**, and **open-source projects** that matter
 
 ---
 
