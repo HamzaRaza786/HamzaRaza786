@@ -24,12 +24,31 @@ I'm a passionate **Software Engineer** with a knack for building clean, scalable
 ---
 
 ## 🛠 Tech Stack & Tools
+### 🧠 Languages
+- 🟦 **TypeScript** & ⚡ **JavaScript** – My go-to for modern web apps  
+- 🐍 **Python** – From Flask APIs to NLP pipelines  
+- 🗃️ **SQL** – Data querying and modeling
 
-Languages: TypeScript, Python, JavaScript, SQL
-Frontend: React, Next.js, Tailwind CSS, Remix, HTML5, CSS3
-Backend: NestJS, Node.js, Flask, Redis, PostgreSQL
-Infra & DevOps: AWS (Lambda, S3, API Gateway), Docker, GitHub Actions
-Other: Git, CI/CD, REST APIs, WebSockets, Serverless
+### 🎨 Frontend
+- ⚛️ **React**, **Next.js**, **Remix** – Frameworks for building fast, scalable UIs  
+- 🎨 **Tailwind CSS** – For sleek, utility-first styling  
+- 🌐 **HTML5**, 🎨 **CSS3** – Core web technologies
+
+### 🔧 Backend
+- 🧱 **NestJS**, 🟩 **Node.js** – Structured and performant backend services  
+- 🍶 **Flask** – Lightweight APIs for ML and simulation apps  
+- 🚀 **Redis**, 🐘 **PostgreSQL** – In-memory speed meets relational power
+
+### ☁️ Infrastructure & DevOps
+- ☁️ **AWS** – Lambda, S3, API Gateway for scalable serverless systems  
+- 🐳 **Docker** – Containerizing everything cleanly  
+- ⚙️ **GitHub Actions** – CI/CD automation with custom workflows
+
+### 📦 Tools & Protocols
+- 🔧 **Git** – Version control pro  
+- 🌐 **REST APIs**, 🔄 **WebSockets** – Real-time and stateless communication  
+- 🛰️ **Serverless Framework** – Fast cloud-native deployments
+
 
 ## 🤝 Let's Connect
 
