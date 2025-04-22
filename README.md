@@ -10,7 +10,7 @@ I'm a passionate **Software Engineer** with a knack for building clean, scalable
 - ⚡ Previously built and shipped production-ready apps using **Next.js**, **NestJS**, **TypeScript**, **AWS**, **Redis**, and **WebSockets**.
 - 🧪 Converted frontend-heavy logic into lean **serverless backends**, reducing app bloat and boosting performance.
 - 🔁 Led the full migration of a large-scale app from **Next.js 12 → 14**, building the design system and writing robust unit/integration tests along the way.
-- 🤖 Worked on a research-based tool that translates English into **Pakistani Sign Language** using **Python**, **NLTK**, and **OpenCV**—published and presented at a national conference.
+- 🤖 Worked on a research-based tool that translates English into **Pakistani Sign Language** using **Python**, **NLTK**, and **React Native**—accepted for presentation at multiple national conferences.
 - 🧠 Developed a web interface for a **Q-learning TurtleBot3 simulator** in ROS, using **Flask** to bridge frontend and simulation APIs.
 
 ---
