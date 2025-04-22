@@ -30,10 +30,9 @@ I'm a passionate **Software Engineer** with a knack for building clean, scalable
 - 🗃️ **SQL** – Data querying and modeling
 
 ### 🎨 Frontend
-- ⚛️ **React**, **Next.js**, **Remix** – Frameworks for building fast, scalable UIs  
-- 🎨 **Tailwind CSS** – For sleek, utility-first styling  
-- 🌐 **HTML5**, 🎨 **CSS3** – Core web technologies
-
+- ⚛️ **React**, **Next.js**– Frameworks for building fast, scalable UIs  
+- 🎨 **Tailwind CSS** – For sleek, utility-first styling
+  
 ### 🔧 Backend
 - 🧱 **NestJS**, 🟩 **Node.js** – Structured and performant backend services  
 - 🍶 **Flask** – Lightweight APIs for ML and simulation apps  
