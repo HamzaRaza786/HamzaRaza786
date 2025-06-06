@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamza Raza
 
-I'm a passionate **Software Engineer** with a knack for building clean, scalable, and performance-driven applications. Whether it's rewriting a frontend from scratch or crafting a real-time backend on AWS, I thrive on turning complex challenges into elegant code. Currently working at **Beebucket** making Data better.
+I'm a passionate **Software Engineer** with a knack for building clean, scalable, and performance-driven applications. Whether it's rewriting a frontend from scratch or crafting a real-time backend on AWS, I thrive on turning complex challenges into elegant code. Currently working at **Beebucket**.
 
 ---
 
