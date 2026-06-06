@@ -26,7 +26,7 @@ I'm a passionate **Software Engineer** with a knack for building clean, scalable
 ## 🛠 Tech Stack & Tools
 ### 🧠 Languages
 - 🟦 **TypeScript** & ⚡ **JavaScript** – My go-to for modern web apps  
-- 🐍 **Python** – From Flask APIs to NLP pipelines  
+- 🐍 **Python** – From FastAPI APIs to NLP pipelines  
 - 🗃️ **SQL** – Data querying and modeling
 
 ### 🎨 Frontend
@@ -35,7 +35,7 @@ I'm a passionate **Software Engineer** with a knack for building clean, scalable
   
 ### 🔧 Backend
 - 🧱 **NestJS**, 🟩 **Node.js** – Structured and performant backend services  
-- 🍶 **Flask** – Lightweight APIs for ML and simulation apps  
+- 🍶 **FastAPI** – Lightweight APIs for ML and simulation apps  
 - 🚀 **Redis**, 🐘 **PostgreSQL** – In-memory speed meets relational power
 
 ### ☁️ Infrastructure & DevOps
